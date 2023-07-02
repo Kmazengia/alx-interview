@@ -2,11 +2,7 @@
 """
 function pascal triangle
 """
-def pascal_triangle(n):
-    if n <= 0:
-        return []
-        
-    else triangl= [[1]]
+triangl= [[1]]
         
         for i in range(1, n):
             row = [1]      
