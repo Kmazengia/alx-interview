@@ -2,7 +2,7 @@
 """
 function pascal triangle
 """
-triangl= [[1]]
+triangle= [[1]]
         
         for i in range(1, n):
             row = [1]      
